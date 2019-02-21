@@ -11,6 +11,6 @@ Repo for Economics Research Project on 'Peer Effects on Working Hours'
 
 4. Open Terminal, and `cd` to wherever you have downloaded the `peerEffects` folder. Type `jupyter notebook` on Terminal and open the notebook `dataAPI.ipynb`
 
-5. Follow the Demo in the Notebook to start collecting and inputting data
+5. Follow the Demo in the Notebook to start collecting and inputting data 
 
 6. Make sure to **end the session** to ensure that the data enters the spreadsheet and check the **libData.csv** file
