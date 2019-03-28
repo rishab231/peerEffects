@@ -1,1 +1,1 @@
-ID,Person,Table,Library,Arrival,Departure,Num_Breaks,Break_Start,Break_End,fromStart,tillEnd,Neighbours,Known,yourName,yourTable,yourSeat
+ID,Person,Table,Library,Arrival,Departure,Num_Breaks,Break_Start,Break_End,fromStart,tillEnd,Neighbors,Known,yourName,yourTable,yourSeat

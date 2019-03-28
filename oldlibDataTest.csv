@@ -1,0 +1,5 @@
+Person,Table,Library,Arrival,Departure,Num_Breaks,Break_Start,Break_End,fromStart,tillEnd,Neighbors
+2,A,Moffit,2019-03-09 23:02:11.492717,2019-03-09 23:02:53.851422,0,[],[],0,0,[5]
+5,A,Moffit,2019-03-09 23:02:11.492950,2019-03-10 01:30:38.018536,1,"[datetime.datetime(2019, 3, 9, 23, 2, 11, 649536), datetime.datetime(2019, 3, 9, 23, 3, 26, 732878)]","[datetime.datetime(2019, 3, 9, 23, 2, 49, 822360)]",0,1,[2]
+1,B,Stacks,2019-03-09 23:02:13.029750,2019-03-09 23:03:26.732945,1,"[datetime.datetime(2019, 3, 9, 23, 2, 14, 416872)]","[datetime.datetime(2019, 3, 9, 23, 3, 26, 732521)]",1,0,[3]
+3,B,Stacks,2019-03-09 23:02:13.726172,2019-03-10 01:30:38.018536,2,"[datetime.datetime(2019, 3, 9, 23, 2, 14, 416957), datetime.datetime(2019, 3, 10, 1, 30, 34, 298825)]","[datetime.datetime(2019, 3, 9, 23, 3, 26, 732805), datetime.datetime(2019, 3, 10, 1, 30, 38, 18274)]",0,1,[1]
